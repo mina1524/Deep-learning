@@ -71,4 +71,4 @@ Standard mean average precision is not reported due to the small dataset size.
 The selected metrics provide interpretable performance evaluation under strict localization constraints.
 
 ## Project Structure
-Example augmented data structure:
+Augmented data structure:
